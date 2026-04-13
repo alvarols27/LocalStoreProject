@@ -133,7 +133,7 @@ struct ProductsView: View {
                     productHolder.fetchProducts { result in
                         switch result {
                         case .success:
-                            print("All products shown for customer")
+                            break
                         case .failure(let error):
                             print("Error loading products: \(error.localizedDescription)")
                         }
