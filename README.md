@@ -61,5 +61,4 @@ I divided the development process into several stages, focusing on implementing 
 6. To test the complete workflow, create two accounts: one **Vendor** account to publish products and one **Customer** account to browse and purchase them.
 
 ## 🎥 Video Demonstration
-https://github.com/user-attachments/assets/593cd2b8-5116-4f00-a515-3506fb7c3a24
-
+https://github.com/user-attachments/assets/ccaf6338-dff6-481a-8c64-a2a172f85ae8
