@@ -17,7 +17,6 @@ struct ProductCard: View {
                 WebImage(url: URL(string: imageURL))
                     .resizable()
                     .frame(height: 130)
-                    .cornerRadius(12)
             } else {
                 Rectangle()
                     .fill(Color.gray.opacity(0.2))
